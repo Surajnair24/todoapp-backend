@@ -51,6 +51,7 @@ CREATE TABLE `projects` (
 )
 
 sql for creating todos table in todoapp DB
+
 CREATE TABLE `todos` (
     `id` INT AUTO_INCREMENT PRIMARY KEY,
     `username` INT NOT NULL,
